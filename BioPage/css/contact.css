@@ -1,0 +1,39 @@
+.contacts{
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 10px;
+    padding-left: 25px;
+    padding-right: 65px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    border-radius: 10%;
+ }
+ 
+ .contacticon{
+    width: 100px;
+    height: 50px;
+    background-color:black;
+    border-radius: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    font-size: 35px;
+    margin-top: 10px;
+ }
+ .contacticon {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+ }
+ 
+ .ul{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+ }

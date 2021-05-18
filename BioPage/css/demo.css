@@ -1,0 +1,63 @@
+.projects{
+   background-color: burlywood;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding-left: 25px;
+   padding-right: 65px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   font-size: 40px;
+   border-radius: 10%;
+}
+
+.projecticon{
+   width: 100px;
+   height: 50px;
+   background-color:burlywood;
+   border-radius: 10%;
+   margin-right: auto;
+   margin-left: auto;
+   font-size: 35px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.projecticon{
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+}
+
+
+.demoweb{
+    background-color: blue;
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+    height: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+ 
+ }
+ .demoapp{
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+ }
+ 
+ .demosocial{
+    background-color: black;
+    text-align: center;
+    color: teal;
+    font-size: 20px;
+    height: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+ }

@@ -1,0 +1,17 @@
+.about{
+    background-color: turquoise;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 10px;
+ 
+    
+ }
+ 
+ .aboutp{
+    line-height: 2px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: yellow;
+    
+ }
